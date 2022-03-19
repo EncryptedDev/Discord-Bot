@@ -95,17 +95,7 @@ export const shortInfos: {
 		title: "Modified Clients",
 		color: "#FF5050",
 		description:
-			"Using a modified client is an violation of Discord's ToS and therefore you run the risk of losing your account. If you want to keep using Discord, you have to follow them and make sure you're not breaking any of the rules Discord. Even using modified clients for theming or other customizations are against Discord's ToS. If you don't believe us, read it yourself.",
-		links: [
-			{
-				label: "Discord's ToS",
-				url: "https://discordapp.com/terms"
-			},
-			{
-				label: "Discord's Tweet",
-				url: "https://twitter.com/discordapp/status/908000828690182145"
-			}
-		]
+			"Using any form of client modification is a violation of [Discord’s ToS](https://discord.com/tos) and, therefore, puts you at risk of losing your account. As a community server, we may also feel the need to punish users who actively break Discord’s ToS and [Community Guidelines](https://discord.com/guidelines) in order to keep our server safe."
 	},
 	creatingAPresence: {
 		title: "Creating a Presence",
